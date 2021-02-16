@@ -1,0 +1,103 @@
+@media (max-width: 850px) {
+  .photos {
+    display: none;
+  }
+}
+
+.photobg {
+  position: absolute;
+  width: 33.3%;
+}
+
+@media (max-width: 850px) {
+  #divEco {
+    display: flex!important;
+    flex-direction: column;
+    margin-top: 65px;
+  }
+}
+
+@media (max-width: 850px) {
+  .ecoimg {
+    margin-top: 45px;
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 850px) {
+  body {
+    width: 100vw!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #carousel {
+    width: 100vw!important;
+    margin-top: 120px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  p {
+    font-size: 14px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #row-terzo {
+    margin-top: 65px!important;
+    display: flex!important;
+    flex-direction: column!important;
+    height: 75vh!important;
+  }
+}
+
+@media (max-width: 850px) {
+  .clippy {
+    display: none!important;
+  }
+}
+
+@media (max-width: 850px) {
+  .heading1 {
+    font-size: 15px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  .divy {
+    width: 100%!important;
+    padding: 0px 15px;
+  }
+}
+
+#extra {
+  display: none!important;
+}
+
+@media (max-width: 850px) {
+  #extra {
+    display: flex!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #row-quattro {
+    margin-top: 240px;
+    height: 140vh!important;
+  }
+}
+
+@media (max-width: 850px) {
+  .rowy {
+    margin-top: 45px;
+  }
+}
+
+@media (max-width: 850px) {
+  .framy {
+    width: 80%!important;
+    margin-top: 20px;
+  }
+}
+

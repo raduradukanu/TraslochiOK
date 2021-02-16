@@ -1,0 +1,380 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/architect-at-the-construction.jpg');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/architects-and-worker.jpg');
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/young-college-students.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+.plat {
+  border-radius: 0px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  border-color: #016090;
+}
+
+.btn.btn-primary {
+  background-color: #048f83!important;
+  border-color: #048f83!important;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
+
+* {
+  /*box-sizing: inherit;*/
+}
+
+*:before, *:after {
+  /*box-sizing: inherit;*/
+}
+
+span {
+  font-style: inherit;
+  font-weight: inherit;
+}
+
+.icona {
+  font-size: 33px;
+}
+
+.overlayx2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+*::selection {
+  color: #333;
+  background: #ffc107;
+  border-radius: 5px;
+}
+
+@media (max-width: 850px) {
+  #header {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 850px) {
+  #numeroTelefono {
+    display: inline;
+  }
+}
+
+@media (max-width: 850px) {
+  #numeroTelefono-1 {
+    display: none;
+  }
+}
+
+@media (max-width: 850px) {
+  .h1, h1 {
+    font-size: 16px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  .mail {
+    display: none;
+  }
+}
+
+@media (max-width: 850px) {
+  .gmail {
+    display: none;
+  }
+}
+
+@media (max-width: 850px) {
+  #navcol-1 {
+    position: absolute;
+    top: 20%;
+    left: 45%;
+  }
+}
+
+@media (max-width: 850px) {
+  img {
+    width: 100%!important;
+  }
+}
+
+@media (max-width: 850px) {
+  .no-show {
+    display: none;
+  }
+}
+
+#wa {
+  width: 30px;
+}
+
+@media (max-width: 850px) {
+  .logo1 {
+    margin-left: 0px!important;
+    margin-top: 0px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #menu {
+    display: none!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #row-set {
+    width: 100vw;
+    margin-top: 45px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #div1 {
+    width: 100%!important;
+    height: 100px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #div2 {
+    width: 100%!important;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    height: 74px!important;
+  }
+}
+
+@media (max-width: 850px) {
+  #row-seconda {
+    height: 100vw!important;
+    display: flex!important;
+    flex-direction: column!important;
+    margin-top: 30px!important;
+  }
+}
+
+@media (max-width: 1500px) {
+  .logo1 {
+    width: 350px;
+  }
+}
+
+@media (max-width: 1500px) {
+  .text-uppercase.headingmargin {
+    font-size: 18px!important;
+  }
+}
+
+@media (max-width: 1500px) {
+  .text-uppercase.headingup {
+    font-size: 16px!important;
+  }
+}
+
+@media (max-width: 851px) {
+  .ecoimg {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1500px) {
+  .ecoimg {
+    width: 33.3%;
+  }
+}
+
+@media (max-width: 1500px) {
+  p {
+    font-size: 20px!important;
+  }
+}
+
+@media (max-width: 1500px) {
+  .text-center.heading1 {
+    font-size: 16px!important;
+  }
+}
+
+@media (max-width: 1500px) {
+  .titlu3 {
+    font-size: 22px!important;
+  }
+}
+
+@media (max-width: 1500px) {
+  .h1, h1 {
+    font-size: 22px!important;
+  }
+}
+
+@media (max-width: 1500px) {
+  .scale {
+    transform: scale(0.6);
+  }
+}
+
+@media (max-width: 1500px) {
+  .icoane {
+    height: 70px;
+    width: 70px;
+  }
+}
+
+@media (max-width: 1500px) {
+  .titly {
+    font-size: 20px!important;
+  }
+}
+
+@media (max-width: 1400px) {
+  .copyright {
+    font-size: 12px!important;
+  }
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.d-flex.flex-column.justify-content-center {
+  position: relative;
+}
+
+.imagine {
+  display: inline-block;
+}
+
+@media (max-width: 600px) {
+  .casa {
+    display: none;
+  }
+}
+
+@media (max-width: 850px) {
+  #header {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px!important;
+  }
+}
+
+@media (max-width: 600px) {
+  .suta {
+    width: 100%!important;
+  }
+}
+
+@media (max-width: 600px) {
+  .responsive {
+    height: 100vh!important;
+    display: flex;
+    flex-direction: column!important;
+  }
+}
+
+@media (max-width: 600px) {
+  .responsivetext {
+    width: 80%!important;
+  }
+}
+
+@media (max-width: 600px) {
+  .margine {
+    height: 50%!important;
+  }
+}
+
+.margine2 {
+  padding-bottom: 100%;
+}
+
+.responsive {
+  background: url('../../assets/img/black-and-white-brick-wall-background-white-brick-wall-image-decoration-picture-white-brick-wall.jpg') cover;
+}
+
+dl, ol, ul {
+  list-style: none;
+}
+
+@media (max-width: 600px) {
+  #row-plus-1 {
+    display: flex;
+    flex-direction: column!important;
+    margin-top: 333px;
+  }
+}
+
+@media (max-width: 600px) {
+  .plus1 {
+    display: flex;
+    flex-direction: column!important;
+  }
+}
+
+@media (max-width: 600px) {
+  .plus5 {
+    flex-direction: column;
+    height: 85vh!important;
+  }
+}
+
+.no-showextra {
+  height: 350px;
+  width: 253px!important;
+}
+
+@media (max-width: 600px) {
+  .plus11 {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 600px) {
+  .containers {
+    height: 222vh!important;
+  }
+}
+
